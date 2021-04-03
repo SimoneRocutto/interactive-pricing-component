@@ -34,8 +34,8 @@ Mobile version
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Site URL](https://simonerocutto.github.io/interactive-pricing-component/)
+- Solution URL: https://your-solution-url.com
+- Site URL: https://simonerocutto.github.io/interactive-pricing-component/
 
 ### My process
 ### Built with
