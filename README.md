@@ -24,8 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-https://github.com/SimoneRocutto/interactive-pricing-component/blob/master/results/desktop%20screenshot.png?raw=true
+Desktop version
+
 ![Desktop version](https://github.com/SimoneRocutto/interactive-pricing-component/blob/master/results/desktop%20screenshot.png?raw=true)
+
+Mobile version
+
 ![Mobile version](https://github.com/SimoneRocutto/interactive-pricing-component/blob/master/results/mobile%20screenshot.png?raw=true)
 
 ### Links
