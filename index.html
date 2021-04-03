@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Frontend Mentor | Interactive pricing component</title>
+</head>
+
+<body>
+  <img id="background" src="images/bg-pattern.svg">
+  <img id="circles" src="images/pattern-circles.svg"></img>
+  <h2>Simple, traffic-based pricing</h2>
+  <div id="h5-block">
+    <p class="description">Sign-up for our 30-day trial.</p>
+    <p class="description">No credit card required.</p>
+  </div>
+  <div id="white-box">
+    <div id="top-block">
+      <div id="pageviews"><div><span id="pageviews-value"></span><span> Pageviews</span></div></div>
+      <div id="slidercontainer">
+        <input type="range" min="0" max="4" value="0" step="1" id="slider">
+      </div>
+      <div id="cost-per-month">
+        <div id="cost">$<span id="cost-value"></span>.00 </div>
+        <div id="per-month">/ month</div>
+      </div>
+      <div id="billing-box">
+        <div class="billing">Monthly Billing</div>
+        <label class="switch-container">
+          <input type="checkbox" id="switch-input">
+          <span class="switch"></span>
+        </label>
+        <div class="billing">Yearly Billing</div>
+        <div id="discount">-25%<span id="discount-word"> discount</span></div>
+      </div>
+    </div>
+    <hr id="hr">
+    <div id="bottom-block">
+      <ul class="check-ul">
+        <li class="check-li"><span class="li-span">Unlimited websites</span></li>
+        <li class="check-li"><span class="li-span">100% data ownership</span></li>
+        <li class="check-li"><span class="li-span">Email reports</span></li>
+      </ul>
+      <div id="button-box">
+        <button id="button">Start my trial</button>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
