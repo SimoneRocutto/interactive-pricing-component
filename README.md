@@ -24,8 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./results/desktop screenshot.png)
-![](./results/mobile screenshot.png)
+https://github.com/SimoneRocutto/interactive-pricing-component/blob/master/results/desktop%20screenshot.png?raw=true
+![Desktop version](https://github.com/SimoneRocutto/interactive-pricing-component/blob/master/results/desktop%20screenshot.png?raw=true)
+![Mobile version](https://github.com/SimoneRocutto/interactive-pricing-component/blob/master/results/mobile%20screenshot.png?raw=true)
 
 ### Links
 
