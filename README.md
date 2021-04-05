@@ -34,7 +34,7 @@ Mobile version
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
+- Solution URL: https://www.frontendmentor.io/solutions/interactive-pricing-component-with-html-css-and-js-0v4I6nZe2
 - Site URL: https://simonerocutto.github.io/interactive-pricing-component/
 
 ### My process
